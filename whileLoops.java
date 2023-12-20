@@ -20,5 +20,6 @@ public class whileLoops {
     }
 
     System.out.println("Hello " + name);
+    scanner.close();
   }
 }

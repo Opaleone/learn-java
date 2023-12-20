@@ -26,5 +26,6 @@ public class MathExamples {
 
 
     System.out.println("Hypotenuse: " + z);
+    scanner.close();
   }
 }

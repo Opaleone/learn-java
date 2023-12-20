@@ -36,5 +36,6 @@ public class logicalOps {
     } else {
       System.out.println("If you say so......");
     }
+    scanner.close();
   }
 }
